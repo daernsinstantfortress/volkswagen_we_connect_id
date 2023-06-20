@@ -1,3 +1,5 @@
+### This repository is now archived and has been superceded by https://github.com/daernsinstantfortress/cupra_we_connect, which will be updated moving forward.
+
 # Volkswagen We Connect ID
 _Volkswagen We Connect ID sensor provides statistics from the Volkswagen ID Api thru [WeConnect-python lib](https://pypi.org/project/weconnect/)._
 
